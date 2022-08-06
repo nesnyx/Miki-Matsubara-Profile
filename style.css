@@ -1,0 +1,16 @@
+section {
+    min-height: 420px;
+}
+body {
+    background-color: rgb(229, 247, 149);
+}
+
+.kartu {
+    min-height: 420px;
+
+}
+
+.kartu .card,
+.karut img {
+    border-radius: 30px;
+}
